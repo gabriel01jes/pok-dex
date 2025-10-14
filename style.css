@@ -24,9 +24,11 @@ main{
 )
 
 .pokedex_img(
- 
-
-
+ position-absolute;
+ botton: absolute;
+ :left: 50%
+transform: translate(-63%, 20%)
+heigh: 18%
 
 )
 
