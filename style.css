@@ -46,3 +46,24 @@ heigh: 18%
 
 
 }
+
+.buttons{
+position: absolute;
+bottom: 10;
+left: 50%;
+width: 65%;
+transform: translate(-57,0);
+display: flex;
+gap: 20xp;
+
+}
+
+.buttons{
+width: 50%;
+padding: 5%;
+border: 2px solid black;
+border-radius: 25px;
+font-size: clamp(8xp, 5w, 24xp);
+box-shadow: -3px 4xp 0 white; 
+
+}
